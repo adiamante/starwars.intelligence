@@ -15,10 +15,10 @@ Clone project
 * Set StarWars.Intelligence.Api as startup project
 * Run (F5) and a browser should open to swagger UI
 
-### Command Line (src folder as context)
+### Command Line
 
 * `dotnet build src/StarWars.Intelligence.sln`
-* `dotnet run src/StarWars.Intelligence.Api/StarWars.Intelligence.Api.csproj`
+* `dotnet run --project src/StarWars.Intelligence.Api/StarWars.Intelligence.Api.csproj`
 * `use browser and visit https://localhost:5001/swagger/index.html`
 
 ## How to Test
@@ -28,9 +28,9 @@ Clone project
 * Run all tests (Ctrl + R, A)
 * Alternatively open Test Explorer and run using buttons
 
-### Command Line (src folder as context)
+### Command Line
 
-* `dotnet test`
+* `dotnet test src/StarWars.Intelligence.sln`
 
 ## Projects
 
