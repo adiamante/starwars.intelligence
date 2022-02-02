@@ -1,0 +1,22 @@
+[
+  {
+    "species": "Human",
+    "classification": "mammal"
+  },
+  {
+    "species": "Droid",
+    "classification": "artificial"
+  },
+  {
+    "species": "Wookie",
+    "classification": "mammal"
+  },
+  {
+    "species": "Rodian",
+    "classification": "sentient"
+  },
+  {
+    "species": "Hutt",
+    "classification": "gastropod"
+  }
+]

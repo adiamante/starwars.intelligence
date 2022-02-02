@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarWars.Intelligence.Application", "StarWars.Intelligence.Application\StarWars.Intelligence.Application.csproj", "{38D905B7-E9B7-4D29-B91E-4A150F19F464}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarWars.Intelligence.Application.Tests", "StarWars.Intelligence.Application.Tests\StarWars.Intelligence.Application.Tests.csproj", "{4C979C24-25C8-4ADC-B1F5-7BD1A9166D17}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StarWars.Intelligence.Api", "StarWars.Intelligence.Api\StarWars.Intelligence.Api.csproj", "{769FEBC1-9023-4858-86ED-15ADB1B6DAD7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{93BE3A31-71AC-4A17-A7B3-5638C0229FD0}"
+	ProjectSection(SolutionItems) = preProject
+		..\README.md = ..\README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{38D905B7-E9B7-4D29-B91E-4A150F19F464}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38D905B7-E9B7-4D29-B91E-4A150F19F464}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38D905B7-E9B7-4D29-B91E-4A150F19F464}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38D905B7-E9B7-4D29-B91E-4A150F19F464}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C979C24-25C8-4ADC-B1F5-7BD1A9166D17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C979C24-25C8-4ADC-B1F5-7BD1A9166D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C979C24-25C8-4ADC-B1F5-7BD1A9166D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C979C24-25C8-4ADC-B1F5-7BD1A9166D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{769FEBC1-9023-4858-86ED-15ADB1B6DAD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{769FEBC1-9023-4858-86ED-15ADB1B6DAD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{769FEBC1-9023-4858-86ED-15ADB1B6DAD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{769FEBC1-9023-4858-86ED-15ADB1B6DAD7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2B14CE3C-76A5-4BAE-8592-9CB5558247FD}
+	EndGlobalSection
+EndGlobal
