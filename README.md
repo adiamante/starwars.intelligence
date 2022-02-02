@@ -4,8 +4,10 @@ Api built for gathering information in order to defeat the galactic empire.
 
 ## Setup
 
-Clone project
-* `git clone https://github.com/adiamante/starwars.intelligence.git`
+* Download and install [.NET 5.0 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/5.0)
+
+* Clone project
+    * `git clone https://github.com/adiamante/starwars.intelligence.git`
 
 ## How to run
 
